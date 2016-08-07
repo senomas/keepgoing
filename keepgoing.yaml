@@ -1,0 +1,6 @@
+keepgoing:
+  cmd: "java -jar xxxxxxx.jar"
+server:
+  url: http://localhost:8080/
+  startWait: 60
+  restartDelay: 60
